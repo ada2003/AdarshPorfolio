@@ -1,0 +1,87 @@
+{
+    "name": "Adarsh Salve",
+    "title": "Software Developer",
+    "contact": {
+      "phone": "8356050526",
+      "email": "salveadarsh23@gmail.com",
+      "location": "Panvel, India",
+      "github": "https://github.com/ada2003",
+      "linkedin": "https://www.linkedin.com/in/adarsh-salve-840136210/"
+    },
+    "objective": "Aspiring software developer seeking to join Google's Software Application Development Apprenticeship to apply my skills in Java and Python while gaining hands-on experience in coding, development, and testing.",
+    "skills": {
+      "languages": ["Java", "SQL", "Python", "JavaScript", "C"],
+      "technologies": ["React.js", "Node.js", "Android", "Google Workspace"],
+      "development_practices": ["Version Control (Git)"]
+    },
+    "projects": [
+      {
+        "name": "MERN Rumala Sahib Store E-commerce Website and Admin Panel",
+        "description": "Developed a comprehensive E-commerce website for Rumala Sahib Store using MERN Stack. Designed and implemented a custom admin panel to enable client-side content management.",
+        "link": "https://www.rumalasahibstore.in/"
+      },
+      {
+        "name": "React.js Inventory Management System with Data Forecasting",
+        "description": "Built an inventory management system integrated with demand forecasting using React.js, Node.js, Express.js, MongoDB, Flask, and Python.",
+        "link": "https://github.com/ada2003/Inventory-Management-System-With-Dataforcasting"
+      },
+      {
+        "name": "React.js Aaryan Devcon Pvt Ltd Website and Admin Panel",
+        "description": "Designed and developed the official website for Aaryan Devcon Pvt Ltd, incorporating React.js for a seamless user experience. Developed a custom admin panel and API for frontend content management.",
+        "link": "https://www.aaryandevcon.com/"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering - Information Technology",
+        "institution": "Konkan Gyanpeeth College of Engineering, Karjat (Mumbai University)",
+        "year": "2020 - 2024"
+      },
+      {
+        "degree": "HSC",
+        "institution": "C.K.T. Junior College",
+        "year": "2019 - 2020"
+      },
+      {
+        "degree": "SSC",
+        "institution": "C.K.T. High School",
+        "year": "2017 - 2018"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Website Developer Intern",
+        "company": "Twinkle Media Hub Pvt. Ltd.",
+        "responsibilities": [
+          "Developed and maintained websites, ensuring responsiveness and cross-browser compatibility.",
+          "Optimized website performance, resulting in a 20% increase in page load speed."
+        ],
+        "technologies": ["React", "Node.js", "PHP", "API"]
+      },
+      {
+        "role": "Intern",
+        "company": "Simplbyte",
+        "responsibilities": [
+          "Developed a user-friendly responsive E-commerce website using CSS and JavaScript."
+        ],
+        "technologies": ["Bootstrap", "JavaScript", "React.js"]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Cloud Foundation",
+        "issuer": "AWS Academy",
+        "year": "2023"
+      },
+      {
+        "name": "Introduction to Web Development with HTML, CSS, JavaScript",
+        "issuer": "Coursera"
+      }
+    ],
+    "languages": [
+      {"language": "English", "proficiency": "Proficient"},
+      {"language": "Hindi", "proficiency": "Proficient"},
+      {"language": "Marathi", "proficiency": "Native"}
+    ]
+  }
+  
